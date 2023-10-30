@@ -1,0 +1,3 @@
+Controls Two Servos, using both analog sticks
+servoPos	First Servo	3	SLIDER	X Axis	0	1.0	0.0
+servoPos2	Second Servo	3	SLIDER	Y Axis	0	1.0	0.0

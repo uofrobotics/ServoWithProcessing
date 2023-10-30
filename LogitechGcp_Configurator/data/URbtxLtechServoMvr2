@@ -1,0 +1,2 @@
+For controlling another servo
+servoPos2	For moving another servo	3	SLIDER	X Axis	0	1.0	0.0

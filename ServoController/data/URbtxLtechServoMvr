@@ -1,0 +1,2 @@
+To move a Servo
+servoPos	To change the servo position (move the servo) 	3	SLIDER	Y Axis	0	1.0	0.0
